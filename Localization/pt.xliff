@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="NewProject/Base.lproj/LaunchScreen.xib" source-language="en" datatype="plaintext" target-language="pt">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.3.2" build-num="6D2105"/>
+    </header>
+    <body>
+      <trans-unit id="8ie-xW-0ye.text">
+        <source>  Copyright (c) 2015 BEPiD 2015. All rights reserved.</source>
+        <target>  Copyright (c) 2015 BEPiD 2015. All rights reserved.</target>
+        <note>Class = "UILabel"; text = "  Copyright (c) 2015 BEPiD 2015. All rights reserved."; ObjectID = "8ie-xW-0ye";</note>
+      </trans-unit>
+      <trans-unit id="kId-c2-rCX.text">
+        <source>NewProject</source>
+        <target>NewProject</target>
+        <note>Class = "UILabel"; text = "NewProject"; ObjectID = "kId-c2-rCX";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="NewProject/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="pt">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.3.2" build-num="6D2105"/>
+    </header>
+    <body>
+      <trans-unit id="67T-Xm-ssT.text">
+        <source>My project</source>
+        <target>My project</target>
+        <note>Class = "UILabel"; text = "My project"; ObjectID = "67T-Xm-ssT";</note>
+      </trans-unit>
+      <trans-unit id="myg-aO-Cge.text">
+        <source>Value</source>
+        <target>Value</target>
+        <note>Class = "UILabel"; text = "Value"; ObjectID = "myg-aO-Cge";</note>
+      </trans-unit>
+      <trans-unit id="yvW-0X-5pO.text">
+        <source>Date</source>
+        <target>Date</target>
+        <note>Class = "UILabel"; text = "Date"; ObjectID = "yvW-0X-5pO";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="NewProject/Info.plist" source-language="en" datatype="plaintext" target-language="pt">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.3.2" build-num="6D2105"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="NewProject/Localizable.strings" source-language="en" datatype="plaintext" target-language="pt">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.3.2" build-num="6D2105"/>
+    </header>
+    <body>
+      <trans-unit id="Today is %@">
+        <source>Today is %@</source>
+        <note>date string for today</note>
+      </trans-unit>
+      <trans-unit id="Value: %@">
+        <source>Value: %@</source>
+        <note>value string</note>
+      </trans-unit>
+      <trans-unit id="usFlag">
+        <source>usFlag</source>
+        <note>name of the flag image on xcassets</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="NewProjectTests/Info.plist" source-language="en" datatype="plaintext" target-language="pt">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.3.2" build-num="6D2105"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

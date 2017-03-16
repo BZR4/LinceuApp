@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gm</key>
+	<dict>
+		<key>instituicao</key>
+		<string>O objetivo constitucional da Guarda Municipal era proteger os usuários e servidores dos serviços públicos, bem como preservar o patrimônio do município, evitando conflitos e atos de vandalismo em praças, parques, escolas, centros de saúde e outros locais de maior concentração de pessoas e auxiliar as polícias Civil e Militar.Hoje, a Guarda Municipal de Araras está incorporada à Secretaria de Segurança Pública e Defesa Civil, assim como a Vigilância Patrimonial – VEPAM (Vigilância Eletrônica Patrimonial Municipal), a Defesa Civil e o DEMUTRAN (Departamento Municipal de Transito).</string>
+		<key>missao</key>
+		<string>Zela pelar segurança do cidadão ararense, pelos serviços e bens públicos diuturnamente.</string>
+		<key>departamentos</key>
+		<string>Patrulhamento preventivo e atendimento à população: Ronda Comunitária; Patrulha Rural e Ambiental na zona rural; Ronda Escolar, atuando exclusivamente nas escolas municipais e,quando solicitados, nas estaduais, com ações educativas e de prevenção; Ronda Comércio, atuando no centro comercial; Apoio às viaturas em atendimento à ocorrências: ROMU, Ronda Ostensiva Municipal;</string>
+		<key>faleconosco</key>
+		<string>A Guarda Municipal utiliza o telefone de emergencia 153, ligue sempre que precisar.</string>
+		<key>contato</key>
+		<array>
+			<string>35411532</string>
+			<string>guardamunicipal@araras.sp.gov.br</string>
+		</array>
+	</dict>
+	<key>segurancaCidada</key>
+	<string>Entende-se a Segurança Cidadã como um modelo que tem por finalidade expandir o processo de articulação de todas as forças da sociedade e formas de governo no combate à criminalidade. De tal modo, cada representante dessas diferentes forças seria co-responsável por planejar e controlar as operações em cada âmbito que se deseja intervir, observando as características locais, bem como desenvolver técnicas de prevenção, mediação, negociação e investigação de conflitos sociais e de crimes. João Tranquillo Beraldo.</string>
+	<key>atores</key>
+	<array>
+		<array>
+			<string>Polícia Militar</string>
+			<string>PMESP</string>
+			<string>A Polícia Militar do Estado de São Paulo (PMESP) tem por função primordial a polícia ostensiva e a preservação da ordem pública paulista. Para fins de organização é uma força auxiliar e reserva do Exército Brasileiro, assim como suas co-irmãs e integra o Sistema de Segurança Pública e Defesa Social brasileiro e está subordinada ao Governo do Estado de São Paulo através da Secretaria Estadual de Segurança Pública (SSP).</string>
+			<string>Proteger as pessoas; Fazer cumprir as leis; Combater o crime; Preservar a ordem pública.</string>
+			<string>Rua Alan Kardec, s/n - Vila da Rosa Zurita</string>
+			<string>policiamilitar@sp.gov.br</string>
+			<string>-22.374612</string>
+			<string>-47.387484</string>
+			<string>190</string>
+		</array>
+		<array>
+			<string>Polícia Civil</string>
+			<string>PC</string>
+			<string>Garantir a segurança dos cidadãos;Investigar e descobrir a autoria dos crimes, colhendo e transmitindo às autoridades competentes os indícios e provas, indagando seus autores e cúmplices, concorrendo eficazmente para que sejam levados aos tribunais.</string>
+			<string>A Polícia Judiciária investigativa atua na defesa da sociedade e na preservação da ordem pública, promovendo e participando de medidas de proteção à sociedade e ao indivíduo, exercendo com excelência suas atribuições, ou seja, a apuração das infrações penais e a identificação de sua autoria.</string>
+			<string>Av. Fábio da Silva Prado, s/n - Centro</string>
+			<string>policiacivil@sp.gov.br</string>
+			<string>-22.349766</string>
+			<string>-47.377006</string>
+			<string>197</string>
+		</array>
+		<array>
+			<string>Guarda Municipal de Araras</string>
+			<string>GMA</string>
+			<string>Prevenção e Combate à violencia e aos crimes.</string>
+			<string>Servir e proteger o cidadão Campineiro, sempre.</string>
+			<string>Rua dos Corodados, 100 - Jardim Campinho</string>
+			<string>guardamunicipal@araras.sp.gov.br</string>
+			<string>-22.360805
+-22.360805</string>
+			<string>-47.373928</string>
+			<string>35411532</string>
+		</array>
+		<array>
+			<string>Guarda Municipal de Valinhos</string>
+			<string>GMA</string>
+			<string>Prevenção e Combate à violencia e aos crimes.</string>
+			<string>Servir e proteger o cidadão Valinhense, sempre.</string>
+			<string>Rua dos Corodados, 100 - Jardim Campinho</string>
+			<string>guardamunicipal@araras.sp.gov.br</string>
+			<string>-22.34440013742</string>
+			<string>-47.38759543044</string>
+			<string>35411532</string>
+		</array>
+	</array>
+</dict>
+</plist>
